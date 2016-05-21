@@ -18,4 +18,4 @@ By default, the hotkey to clear the console is <kbd>alt</kbd>+<kbd>k</kbd>. You 
 ]
 ```
 
-Simply replace `alt+k` with the key combination you want to use.jk
+Simply replace `alt+k` with the key combination you want to use.
