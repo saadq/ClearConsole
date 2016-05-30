@@ -1,7 +1,7 @@
 # ClearConsole
 > "Clear" the console by printing a bunch of new lines.
 
-This plugin was inspired from [this](http://stackoverflow.com/questions/24755246/how-to-clear-console-in-sublime-text-editor) StackOverflow answer, and is simply a means of convenience that allows you to clear the console by just using some hotkeys.
+This plugin was inspired from [this answer](http://stackoverflow.com/a/24760927/4361297) on StackOverflow by [@MattDMo](https://github.com/MattDMo), and is simply a means of convenience around it that allows you to clear the console by just using some hotkeys.
 
 ## Installation
 1. Open the Command Palette by pressing <kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Mac or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Windows
